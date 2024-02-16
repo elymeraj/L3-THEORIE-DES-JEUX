@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+    	
+    <version>1.0</version>
+    	
+    <configs>
+        		
+        <config default="true" name="Configuration1" category="opl">
+            			
+            <ref name="jeu1.mod" type="model">
+			</ref>
+            		
+        </config>
+        		
+        <config default="false" name="Configuration3" category="opl">
+            			
+            <ref name="jeu2-1.mod" type="model">
+			</ref>
+            		
+        </config>
+        		
+        <config default="false" name="Configuration4" category="opl">
+            			
+            <ref name="jeu2-2.mod" type="model">
+			</ref>
+            		
+        </config>
+        	
+    </configs>
+    	
+
+</project>
